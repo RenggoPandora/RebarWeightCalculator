@@ -87,18 +87,4 @@ rebar-weight-calculator/
 - Font Awesome Icons
 - Google Fonts (Inter)
 
-## Browser Support
 
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-- Opera
-
-## Lisensi
-
-MIT License - bebas digunakan untuk keperluan pribadi maupun komersial.
-
----
-
-Dibuat dengan ❤️ menggunakan HTML, Tailwind CSS & JavaScript
